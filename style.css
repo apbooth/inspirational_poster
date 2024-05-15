@@ -4,6 +4,13 @@
     text-align: center;
 }
 
+.libre-baskerville-regular {
+    font-family: "Libre Baskerville", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+
 #main_div {
     width: 50%;
     margin-top: 50px;
